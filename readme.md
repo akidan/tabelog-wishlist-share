@@ -3,31 +3,7 @@
 - User A: Izzie
 - User B: Yue
 
-## User A「行った」 & User B「行った」
-
-- 米久本店	https://tabelog.com/tokyo/A1311/A131102/13003667/
-- 海底撈火鍋	https://tabelog.com/tokyo/A1305/A130501/13187484/
-- ラ・メール・プラール	https://tabelog.com/tokyo/A1301/A130102/13129413/
-- ＠ほぉ～むカフェ 本店	https://tabelog.com/tokyo/A1310/A131001/13020331/
-- LUKE’S 表参道店	https://tabelog.com/tokyo/A1306/A130601/13181536/
-
-## User A「行った」 & User B「行きたい」
-
-- 代官山焼肉　kintan	https://tabelog.com/tokyo/A1303/A130302/13185073/
-- 生粋	https://tabelog.com/tokyo/A1311/A131101/13165294/
-- 麗郷 渋谷店	https://tabelog.com/tokyo/A1303/A130301/13001805/
-
-## User A「行きたい」 & User B「行った」
-
-- パラダイス ダイナシティ	https://tabelog.com/tokyo/A1301/A130101/13156930/
-- AFURI 六本木ヒルズ	https://tabelog.com/tokyo/A1307/A130701/13167723/
-
-## User A「行きたい」 & User B「行きたい」
-
-- すし独楽	https://tabelog.com/tokyo/A1317/A131702/13030903/
-- 麦府 自由ヶ丘店	https://tabelog.com/tokyo/A1317/A131703/13058324/
-
-## User A: よく食べるカテゴリー
+## User A: よく行った場所
 
 1. 本郷三丁目	11.5%
 2. 明治神宮前	8.4%
@@ -72,6 +48,30 @@
 5. イタリアン	4.0%
 6. 魚介料理・海鮮料理	4.0%
 7. 寿司	3.2%
-8 .焼肉	2.8%
+8. 焼肉	2.8%
 9. タイ料理	2.0%
 10. ハンバーガー	2.0%
+
+## User A「行った」 & User B「行った」
+
+- 米久本店	https://tabelog.com/tokyo/A1311/A131102/13003667/
+- 海底撈火鍋	https://tabelog.com/tokyo/A1305/A130501/13187484/
+- ラ・メール・プラール	https://tabelog.com/tokyo/A1301/A130102/13129413/
+- ＠ほぉ～むカフェ 本店	https://tabelog.com/tokyo/A1310/A131001/13020331/
+- LUKE’S 表参道店	https://tabelog.com/tokyo/A1306/A130601/13181536/
+
+## User A「行った」 & User B「行きたい」
+
+- 代官山焼肉　kintan	https://tabelog.com/tokyo/A1303/A130302/13185073/
+- 生粋	https://tabelog.com/tokyo/A1311/A131101/13165294/
+- 麗郷 渋谷店	https://tabelog.com/tokyo/A1303/A130301/13001805/
+
+## User A「行きたい」 & User B「行った」
+
+- パラダイス ダイナシティ	https://tabelog.com/tokyo/A1301/A130101/13156930/
+- AFURI 六本木ヒルズ	https://tabelog.com/tokyo/A1307/A130701/13167723/
+
+## User A「行きたい」 & User B「行きたい」
+
+- すし独楽	https://tabelog.com/tokyo/A1317/A131702/13030903/
+- 麦府 自由ヶ丘店	https://tabelog.com/tokyo/A1317/A131703/13058324/
